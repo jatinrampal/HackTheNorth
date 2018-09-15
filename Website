@@ -1,0 +1,469 @@
+
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Car Insurance</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
+					<h1 id="logo"><a href="#">AutoTech</a></h1>
+					<p>Revolutionizing Automotive Insurance using Blockchain Technology<br /></p>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="#one" class="active">About Us</a></li>
+						<li><a href="#two">Our Initiative</a></li>
+						<li><a href="#three">Our Team</a></li>
+						<li><a href="#four">Sign Up Here</a></li>
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+						<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="image main" data-position="center">
+									<img src="images/banner.jpg" alt="" />
+								</div>
+								<div class="container">
+									<header class="major">
+										<h2>About Us</h2>
+										<p>We are a team of students from the University of Waterloo and Sheridan College dedicated to improving the security of the insurance and automotive industry. Founded at Hack the North 2018, we are currently working on blockchain technology and bringing it into the industry for all providers to use.<br /><a href="http://html5up.net"></a></p>
+									</header>
+									<p></p>
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two">
+								<div class="container">
+									<h3>Our Initiative</h3>
+									<p>Our initiative is to validiate and stop insurance fraud. By using blockchain technology, we are making insruance claims more secure and saving thousands of dollars. What we value is  </p>
+									<ul class="feature-icons">
+										<li class="fa-code">Customer Care</li>
+										<li class="fa-cubes">Inegrity</li>
+										<li class="fa-book">Validity</li>
+										<li class="fa-coffee">Fair Markets</li>
+									</ul>
+								</div>
+							</section>
+
+						<!-- Three -->
+							<section id="three">
+								<div class="container">
+									<h3>Our Team</h3>
+									<p></p>
+									<div class="features">
+										<article>
+											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Maggie Zhao</h4>
+												<p>Sotware Developer</p>
+                                                <p>Mathematics Student, University of Waterloo</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Jatin Rampal</h4>
+												<p>Back-end Developer </p>
+                                                <p>Sotware Development and Network Engineering, Shereidan College</p>
+                                                
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Veronica Barry </h4>
+												<p>Front-end Developer </p>
+                                                <p>Mechanical Engineering, University of Waterloo</p>
+											</div>
+										</article>
+									</div>
+								</div>
+							</section>
+
+						<!-- Four -->
+							<section id="four">
+								<div class="container">
+									<h3>Sign Up Here</h3>
+									<p>To recieve our services sign up below and we will get back to you as soon as possible.</p>
+									<form method="post" action="#">
+										<div class="row gtr-uniform">
+											<div class="col-6 col-12-xsmall"><input type="text" name="name" id="name" placeholder="Name" /></div>
+											<div class="col-6 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Email" /></div>
+											<div class="col-12">
+												<ul class="actions">
+													<li><input type="submit" class="primary" value="Send Request" /></li>
+													<li><input type="reset" value="Reset Form" /></li>
+												</ul>
+											</div>
+										</div>
+									</form>
+								</div>
+							</section>
+                        	        <script type="text/javascript">
+		var headID = document.getElementsByTagName("head")[0];
+		var newCss = document.createElement('link');
+		newCss.rel = 'stylesheet';
+		newCss.type = 'text/css';
+		window._botUsername = '792116';
+		window._botName = 'Chatter Bot';
+		newCss.href = "https://rebot.me/assets/css/bot.css";
+		var newScript = document.createElement('script');
+		newScript.src = "https://rebot.me/assets/js/bot.js";
+		newScript.type = 'text/javascript';
+		headID.appendChild(newScript);
+		headID.appendChild(newCss);
+		</script>
+	    
+
+										<pre><code>i = 0;
+
+while (!deck.isInOrder()) {
+    print 'Iteration ' + i;
+    deck.shuffle();
+    i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+									</section>
+
+									<section>
+										<h4>Lists</h4>
+										<div class="row">
+											<div class="col-6 col-12-xsmall">
+												<h5>Unordered</h5>
+												<ul>
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Sagittis adipiscing lorem eleifend.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+												</ul>
+												<h5>Alternate</h5>
+												<ul class="alt">
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Sagittis adipiscing lorem eleifend.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+												</ul>
+											</div>
+											<div class="col-6 col-12-xsmall">
+												<h5>Ordered</h5>
+												<ol>
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Etiam vel felis at lorem sed viverra.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Etiam vel felis at lorem sed viverra.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+												</ol>
+												<h5>Icons</h5>
+												<ul class="icons">
+													<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+													<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+													<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+													<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+													<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+													<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
+												</ul>
+											</div>
+										</div>
+										<h5>Actions</h5>
+										<ul class="actions">
+											<li><a href="#" class="button primary">Default</a></li>
+											<li><a href="#" class="button">Default</a></li>
+											<li><a href="#" class="button alt">Default</a></li>
+										</ul>
+										<ul class="actions small">
+											<li><a href="#" class="button primary small">Small</a></li>
+											<li><a href="#" class="button small">Small</a></li>
+											<li><a href="#" class="button alt small">Small</a></li>
+										</ul>
+										<div class="row">
+											<div class="col-3 col-6-medium col-12-xsmall">
+												<ul class="actions stacked">
+													<li><a href="#" class="button primary">Default</a></li>
+													<li><a href="#" class="button">Default</a></li>
+													<li><a href="#" class="button alt">Default</a></li>
+												</ul>
+											</div>
+											<div class="col-3 col-6 col-12-xsmall">
+												<ul class="actions stacked">
+													<li><a href="#" class="button primary small">Small</a></li>
+													<li><a href="#" class="button small">Small</a></li>
+													<li><a href="#" class="button alt small">Small</a></li>
+												</ul>
+											</div>
+											<div class="col-3 col-6-medium col-12-xsmall">
+												<ul class="actions stacked">
+													<li><a href="#" class="button primary fit">Default</a></li>
+													<li><a href="#" class="button fit">Default</a></li>
+													<li><a href="#" class="button alt fit">Default</a></li>
+												</ul>
+											</div>
+											<div class="col-3 col-6-medium col-12-xsmall">
+												<ul class="actions stacked">
+													<li><a href="#" class="button primary small fit">Small</a></li>
+													<li><a href="#" class="button small fit">Small</a></li>
+													<li><a href="#" class="button alt small fit">Small</a></li>
+												</ul>
+											</div>
+										</div>
+									</section>
+
+									<section>
+										<h4>Table</h4>
+										<h5>Default</h5>
+										<div class="table-wrapper">
+											<table>
+												<thead>
+													<tr>
+														<th>Name</th>
+														<th>Description</th>
+														<th>Price</th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td>Item One</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Two</td>
+														<td>Vis ac commodo adipiscing arcu aliquet.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Three</td>
+														<td> Morbi faucibus arcu accumsan lorem.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Four</td>
+														<td>Vitae integer tempus condimentum.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Five</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+												</tbody>
+												<tfoot>
+													<tr>
+														<td colspan="2"></td>
+														<td>100.00</td>
+													</tr>
+												</tfoot>
+											</table>
+										</div>
+
+										<h5>Alternate</h5>
+										<div class="table-wrapper">
+											<table class="alt">
+												<thead>
+													<tr>
+														<th>Name</th>
+														<th>Description</th>
+														<th>Price</th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td>Item One</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Two</td>
+														<td>Vis ac commodo adipiscing arcu aliquet.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Three</td>
+														<td> Morbi faucibus arcu accumsan lorem.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Four</td>
+														<td>Vitae integer tempus condimentum.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Five</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+												</tbody>
+												<tfoot>
+													<tr>
+														<td colspan="2"></td>
+														<td>100.00</td>
+													</tr>
+												</tfoot>
+											</table>
+										</div>
+									</section>
+
+									<section>
+										<h4>Buttons</h4>
+										<ul class="actions">
+											<li><a href="#" class="button primary">Primary</a></li>
+											<li><a href="#" class="button">Default</a></li>
+											<li><a href="#" class="button alt">Alternate</a></li>
+										</ul>
+										<ul class="actions">
+											<li><a href="#" class="button primary large">Large</a></li>
+											<li><a href="#" class="button">Default</a></li>
+											<li><a href="#" class="button alt small">Small</a></li>
+										</ul>
+										<ul class="actions fit">
+											<li><a href="#" class="button primary fit">Fit</a></li>
+											<li><a href="#" class="button fit">Fit</a></li>
+											<li><a href="#" class="button alt fit">Fit</a></li>
+										</ul>
+										<ul class="actions fit small">
+											<li><a href="#" class="button primary fit small">Fit + Small</a></li>
+											<li><a href="#" class="button fit small">Fit + Small</a></li>
+											<li><a href="#" class="button alt fit small">Fit + Small</a></li>
+										</ul>
+										<ul class="actions">
+											<li><a href="#" class="button primary icon fa-download">Icon</a></li>
+											<li><a href="#" class="button icon fa-download">Icon</a></li>
+											<li><a href="#" class="button alt icon fa-check">Icon</a></li>
+										</ul>
+										<ul class="actions">
+											<li><span class="button primary disabled">Primary</span></li>
+											<li><span class="button disabled">Default</span></li>
+											<li><span class="button alt disabled">Alternate</span></li>
+										</ul>
+									</section>
+
+									<section>
+										<h4>Form</h4>
+										<form method="post" action="#">
+											<div class="row gtr-uniform">
+												<div class="col-6 col-12-xsmall">
+													<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+												</div>
+												<div class="col-6 col-12-xsmall">
+													<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+												</div>
+												<div class="col-12">
+													<select name="demo-category" id="demo-category">
+														<option value="">- Category -</option>
+														<option value="1">Manufacturing</option>
+														<option value="1">Shipping</option>
+														<option value="1">Administration</option>
+														<option value="1">Human Resources</option>
+													</select>
+												</div>
+												<div class="col-4 col-12-medium">
+													<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+													<label for="demo-priority-low">Low Priority</label>
+												</div>
+												<div class="col-4 col-12-medium">
+													<input type="radio" id="demo-priority-normal" name="demo-priority">
+													<label for="demo-priority-normal">Normal Priority</label>
+												</div>
+												<div class="col-4 col-12-medium">
+													<input type="radio" id="demo-priority-high" name="demo-priority">
+													<label for="demo-priority-high">High Priority</label>
+												</div>
+												<div class="col-6 col-12-medium">
+													<input type="checkbox" id="demo-copy" name="demo-copy">
+													<label for="demo-copy">Email me a copy of this message</label>
+												</div>
+												<div class="col-6 col-12-medium">
+													<input type="checkbox" id="demo-human" name="demo-human" checked>
+													<label for="demo-human">I am a human and not a robot</label>
+												</div>
+												<div class="col-12">
+													<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+												</div>
+												<div class="col-12">
+													<ul class="actions">
+														<li><input type="submit" value="Send Message" /></li>
+														<li><input type="reset" value="Reset" class="alt" /></li>
+													</ul>
+												</div>
+											</div>
+										</form>
+									</section>
+
+									<section>
+										<h4>Image</h4>
+										<h5>Fit</h5>
+										<span class="image fit"><img src="images/banner.jpg" alt="" /></span>
+										<div class="box alt">
+											<div class="row gtr-50 gtr-uniform">
+												<div class="col-4"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+											</div>
+										</div>
+										<h5>Left &amp; Right</h5>
+										<p><span class="image left"><img src="images/avatar.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+										<p><span class="image right"><img src="images/avatar.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+									</section>
+
+								</div>
+							</section>
+						-->
+
+					</div>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
