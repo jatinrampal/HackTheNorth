@@ -89,7 +89,35 @@ class Blockchain{
 //new blockchain for claims
 let test_01 = new Blockchain();
 console.log("Is blockchain valid? ", test_01.isChainValid());
-test_01.createTransaction(new Transaction("abcde123_ins", "Joe Bob", "Bob Joe", "Toyota", "2018 RAV4 LE", "Head-on Collision", 12344567890, 2000, "abcde12345"));
-console.log("Is blockchain valid? ", test_01.isChainValid());
+test_01.createTransaction(newTransaction("abcde123_ins", "Joe Bob", "Bob Joe", "Toyota", "2018 AV4 L1", "Head-On Collision", 12344567890, 2000, "abcde12345"));
+console.log("Is blockchain valid?", test_01.isChainValid());
 test_01.minePendingTransactions("abcde123_ins");
 console.log("Is blockchain valid? ", test_01.isChainValid());
+//new blockchain for claims
+let test_02 = new Blockchain();
+console.log("Is blockchain valid? ", test_02.isChainValid());
+test_02.createTransaction(newTransaction("abcde123_ins", "Tina Till", "Till Tina", "Honda", "2004 Civic XL", "Pedestrian Collision", 12344567890, 2000, "abcde12345"));
+console.log("Is blockchain valid?", test_02.isChainValid());
+test_02.minePendingTransactions("abcde123_ins");
+console.log("Is blockchain valid? ", test_02.isChainValid());
+//new blockchain for claims
+let test_03 = new Blockchain();
+console.log("Is blockchain valid? ", test_03.isChainValid());
+test_03.createTransaction(new Transaction("abcde123_ins", "Bill Homes", "Homes Bill", "Cheverolet", "2012 Avalanche 4XL", "Head-on Collision", 12344567890, 2000, "abcde12345"));
+console.log("Is blockchain valid? ", test_03.isChainValid());
+test_03.minePendingTransactions("abcde123_ins");
+console.log("Is blockchain valid? ", test_03.isChainValid());
+//new blockchain for claims
+let test_04 = new Blockchain();
+console.log("Is blockchain valid? ", test_04.isChainValid());
+test_04.createTransaction(new Transaction("abcde123_ins", "Jenya Bo", "Bo Jenya", "Toyota", "2013 Sienna", "Side-Impact Collision", 12344567890, 2000, "abcde12345"));
+console.log("Is blockchain valid? ", test_04.isChainValid());
+test_04.minePendingTransactions("abcde123_ins");
+console.log("Is blockchain valid? ", test_04.isChainValid());
+//new blockchain for claims
+let test_05 = new Blockchain();
+console.log("Is blockchain valid? ", test_05.isChainValid());
+test_05.createTransaction(newTransaction("abcde123_ins", "Ron Willis", "Willis Ron", "Toyota", "2018 Corolla", "Rear-End Collision", 12344567890, 2000, "abcde12345"));
+console.log("Is blockchain valid?", test_01.isChainValid());
+test_05.minePendingTransactions("abcde123_ins");
+console.log("Is blockchain valid? ", test_05.isChainValid());
